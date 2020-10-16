@@ -1,6 +1,6 @@
 # nicetomeetyou
 The project made special for Fanshawe College program
-Made using windows 1- and Sublime text editor
+Made using windows 10 and Sublime text editor
 
 You can run this code via any browser
 
